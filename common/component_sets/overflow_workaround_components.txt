@@ -1,0 +1,35 @@
+component_set = {
+	key = "SPK_HULL_NERF_CS"
+	icon = "SPK_hull_nerf"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "SPK_HULL_REGEN_NERF_CS"
+	icon = "SPK_hull_regen_nerf"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "SPK_ARMOR_NERF_CS"
+	icon = "SPK_armor_nerf"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "SPK_ARMOR_REGEN_NERF_CS"
+	icon = "SPK_armor_regen_nerf"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "SPK_SHIELD_NERF_CS"
+	icon = "SPK_shield_nerf"
+	icon_frame = 1
+}
+
+component_set = {
+	key = "SPK_SHIELD_REGEN_NERF_CS"
+	icon = "SPK_shield_regen_nerf"
+	icon_frame = 1
+}

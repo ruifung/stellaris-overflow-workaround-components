@@ -1,0 +1,26 @@
+spriteTypes = {
+	spriteType = {
+		name = "SPK_hull_nerf"
+		textureFile = "gfx/spk_hull_nerf.dds"
+	}
+	spriteType = {
+		name = "SPK_hull_regen_nerf"
+		textureFile = "gfx/spk_hull_regen_nerf.dds"
+	}
+	spriteType = {
+		name = "SPK_armor_nerf"
+		textureFile = "gfx/spk_armor_nerf.dds"
+	}
+	spriteType = {
+		name = "SPK_armor_regen_nerf"
+		textureFile = "gfx/spk_armor_regen_nerf.dds"
+	}
+	spriteType = {
+		name = "SPK_shield_nerf"
+		textureFile = "gfx/spk_shield_nerf.dds"
+	}
+	spriteType = {
+		name = "SPK_shield_regen_nerf"
+		textureFile = "gfx/spk_shield_regen_nerf.dds"
+	}
+}

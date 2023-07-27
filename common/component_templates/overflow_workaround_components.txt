@@ -1,0 +1,119 @@
+utility_component_template = {
+	key = "SPK_HULL_NERF"
+	size = large
+	icon = "SPK_hull_nerf"
+	icon_frame = 1
+	component_set = "SPK_HULL_NERF_CS"
+	power = 0
+	modifier = {
+		ship_hull_mult = -0.25
+	}
+	resources = {
+		category = ship_components
+		cost = { alloys = 1 }
+	}
+
+	ai_weight = {
+		weight = 0
+	}
+}
+
+utility_component_template = {
+	key = "SPK_HULL_REGEN_NERF"
+	size = large
+	icon = "SPK_hull_regen_nerf"
+	icon_frame = 1
+	power = 0
+	modifier = {
+		ship_hull_regen_add_perc = -0.01
+	}
+	component_set = "SPK_HULL_REGEN_NERF_CS"
+	resources = {
+		category = ship_components
+		cost = { alloys = 1 }
+	}
+
+	ai_weight = {
+		weight = 0
+	}
+}
+
+utility_component_template = {
+	key = "SPK_ARMOR_NERF"
+	size = large
+	icon = "SPK_armor_nerf"
+	icon_frame = 1
+	component_set = "SPK_ARMOR_NERF_CS"
+	power = 0
+	modifier = {
+		ship_armor_mult = -0.25
+	}
+	resources = {
+		category = ship_components
+		cost = { alloys = 1 }
+	}
+
+	ai_weight = {
+		weight = 0
+	}
+}
+
+utility_component_template = {
+	key = "SPK_ARMOR_REGEN_NERF"
+	size = large
+	icon = "SPK_armor_regen_nerf"
+	icon_frame = 1
+	power = 0
+	modifier = {
+		ship_armor_regen_add_perc = -0.01
+	}
+	component_set = "SPK_ARMOR_REGEN_NERF_CS"
+	resources = {
+		category = ship_components
+		cost = { alloys = 1 }
+	}
+
+	ai_weight = {
+		weight = 0
+	}
+}
+
+utility_component_template = {
+	key = "SPK_SHIELD_NERF"
+	size = large
+	icon = "SPK_shield_nerf"
+	icon_frame = 1
+	power = 0
+	modifier = {
+		ship_shield_mult = -0.25
+	}
+	component_set = "SPK_SHIELD_NERF_CS"
+	resources = {
+		category = ship_components
+		cost = { alloys = 1 }
+	}
+
+	ai_weight = {
+		weight = 0
+	}
+}
+
+utility_component_template = {
+	key = "SPK_SHIELD_REGEN_NERF"
+	size = large
+	icon = "SPK_shield_regen_nerf"
+	icon_frame = 1
+	power = 0
+	modifier = {
+		ship_shield_regen_add_perc = -0.05
+	}
+	component_set = "SPK_SHIELD_REGEN_NERF_CS"
+	resources = {
+		category = ship_components
+		cost = { alloys = 1 }
+	}
+
+	ai_weight = {
+		weight = 0
+	}
+}
